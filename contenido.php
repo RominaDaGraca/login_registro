@@ -1,5 +1,10 @@
 <?php
- //ESTE ARCHIVO SE VA A ENCARGAR DE LA LOGICA,
- // ES DECIR SE ENCARGARA DE COMPROBAR QUE EL USUARIO TENGA UNA SESSION.
+session_start();
+//Comprobamos si la session esta seteada
+if (isset($_SESSION['usuario'])) {
+    require 'Views/contenido.view.php';
+}else{
+    header('Location: login.php');
+}
 
- require "Views/contenido.view.php";
+ ?>

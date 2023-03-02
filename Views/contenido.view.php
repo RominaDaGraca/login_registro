@@ -16,8 +16,13 @@
         <hr class="border">
         <div class="contenido">
         <article>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolore odio minus eum quae quia cum molestias qui libero quos nemo, quisquam ullam harum ipsum? Facilis aperiam ipsum eos qui cum praesentium aliquam quia vitae nam a quis esse, distinctio accusamus facere molestias. Architecto, hic natus. Quaerat error atque ut.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque alias. Ad reiciendis recusandae delectus obcaecati ipsum, enim earum repellat ipsam eos rerum ullam vitae error odio quidem adipisci atque, possimus, fugit id nisi quae aperiam. Animi nihil repellat aliquid!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolore odio minus eum quae quia cum molestias
+                 qui libero quos nemo, quisquam ullam harum ipsum? Facilis aperiam ipsum eos qui
+                 cum praesentium aliquam quia vitae nam a quis esse, distinctio accusamus facere molestias. Architecto, 
+                 hic natus. Quaerat error atque ut.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque alias. Ad reiciendis recusandae 
+                delectus obcaecati ipsum, enim earum repellat ipsam eos rerum ullam vitae error odio quidem adipisci 
+                atque, possimus, fugit id nisi quae aperiam. Animi nihil repellat aliquid!</p>
         </article>
         </div>
     </div>
